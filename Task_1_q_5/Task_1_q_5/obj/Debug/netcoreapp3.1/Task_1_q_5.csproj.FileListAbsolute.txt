@@ -1,0 +1,14 @@
+C:\Users\ANUBHASR\Desktop\C Sharp Code With Harry\Task_1_q_5\Task_1_q_5\bin\Debug\netcoreapp3.1\Task_1_q_5.exe
+C:\Users\ANUBHASR\Desktop\C Sharp Code With Harry\Task_1_q_5\Task_1_q_5\bin\Debug\netcoreapp3.1\Task_1_q_5.deps.json
+C:\Users\ANUBHASR\Desktop\C Sharp Code With Harry\Task_1_q_5\Task_1_q_5\bin\Debug\netcoreapp3.1\Task_1_q_5.runtimeconfig.json
+C:\Users\ANUBHASR\Desktop\C Sharp Code With Harry\Task_1_q_5\Task_1_q_5\bin\Debug\netcoreapp3.1\Task_1_q_5.runtimeconfig.dev.json
+C:\Users\ANUBHASR\Desktop\C Sharp Code With Harry\Task_1_q_5\Task_1_q_5\bin\Debug\netcoreapp3.1\Task_1_q_5.dll
+C:\Users\ANUBHASR\Desktop\C Sharp Code With Harry\Task_1_q_5\Task_1_q_5\bin\Debug\netcoreapp3.1\Task_1_q_5.pdb
+C:\Users\ANUBHASR\Desktop\C Sharp Code With Harry\Task_1_q_5\Task_1_q_5\obj\Debug\netcoreapp3.1\Task_1_q_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANUBHASR\Desktop\C Sharp Code With Harry\Task_1_q_5\Task_1_q_5\obj\Debug\netcoreapp3.1\Task_1_q_5.AssemblyInfoInputs.cache
+C:\Users\ANUBHASR\Desktop\C Sharp Code With Harry\Task_1_q_5\Task_1_q_5\obj\Debug\netcoreapp3.1\Task_1_q_5.AssemblyInfo.cs
+C:\Users\ANUBHASR\Desktop\C Sharp Code With Harry\Task_1_q_5\Task_1_q_5\obj\Debug\netcoreapp3.1\Task_1_q_5.csproj.CoreCompileInputs.cache
+C:\Users\ANUBHASR\Desktop\C Sharp Code With Harry\Task_1_q_5\Task_1_q_5\obj\Debug\netcoreapp3.1\Task_1_q_5.dll
+C:\Users\ANUBHASR\Desktop\C Sharp Code With Harry\Task_1_q_5\Task_1_q_5\obj\Debug\netcoreapp3.1\Task_1_q_5.pdb
+C:\Users\ANUBHASR\Desktop\C Sharp Code With Harry\Task_1_q_5\Task_1_q_5\obj\Debug\netcoreapp3.1\Task_1_q_5.genruntimeconfig.cache
+C:\Users\ANUBHASR\Desktop\C Sharp Code With Harry\Task_1_q_5\Task_1_q_5\obj\Debug\netcoreapp3.1\Task_1_q_5.csproj.AssemblyReference.cache
